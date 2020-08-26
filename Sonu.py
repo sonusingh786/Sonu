@@ -62,7 +62,7 @@ logo = """
 \033[1;96m■▇▇═╌ R E M E M B E R╌═▇▇■
 \033[1;37mDo not use any illegal
 \033[1;38mWhatsapp hacking commond also availble
-\033[1;39mArbabMemon(my All commonds Daily Update)
+\033[1;39mSonuSingh(my All commonds Daily Update)
 \033[1;96m■▇▇═╌ S O N U B U G O ╌═▇▇■
 \033[1;90m💠 ⚌⚌⚌⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 💠 
 
